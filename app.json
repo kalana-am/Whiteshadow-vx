@@ -7,7 +7,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter your Session ID here (from pairing site).",
+      "description": "White-MD~6J1CwQzL#tXiYF1h0xHhOGcER-_jObRHqr2afjP-QmCc2rVui-QM.",
       "required": true,
       "value": ""
     }
